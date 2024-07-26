@@ -5,7 +5,9 @@
 layout: single
 author_profile: false
 ---
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]  
+Then I continue to write my text and embed a video here  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/npnp--SSx_8?si=nD8B5MXwu42--mtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [^1]: This is the first footnote.
 
